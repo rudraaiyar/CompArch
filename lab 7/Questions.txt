@@ -1,0 +1,8 @@
+Q1. The program will still give the right output so a programmer may not notice it. However, the memory that's being accessed may not be correct depending on which values are being inputted.
+Q2. If the "a" is changed, it will make the temp pointer equal to a value instead of a memory address so it results in a program that will crash.
+
+
+Side notes:
+//temp is not being implemented properly
+//can’t use $t0
+//v0
